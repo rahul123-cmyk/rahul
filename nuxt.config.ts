@@ -3,6 +3,8 @@ export default defineNuxtConfig({
   //...
   build: {
     transpile: ['vuetify'],
+
+
   },
   modules: [
     (_options, nuxt) => {

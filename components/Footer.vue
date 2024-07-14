@@ -1,7 +1,7 @@
 <template>
   <section class="bg-blue-200 ">
     <v-container>
-      <div class="grid grid-cols-3 sm:grid-cols-1 md:grid-cols-3  " >
+      <div class="grid grid-cols-3 sm:grid-cols-1   md:grid-cols-3  " >
         <div class="flex flex-col gap-2">
           <h1 class="text-2xl font-semibold">Contact us</h1>
          <div>

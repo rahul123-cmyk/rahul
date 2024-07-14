@@ -11,7 +11,7 @@
 <div  class="grid grid-cols-1 md:grid-cols-3 gap-10" >
 <div v-for="member in member.members" :key="member.id" class="flex items-center gap-4 border
 hover:shadow-lg  ease-linear duration-300 ">
-<div class="w-52">
+<div class="w-36">
 <v-img :src="member.photo" :lazy-src="member.photo" ></v-img></div>
 <div >
 
